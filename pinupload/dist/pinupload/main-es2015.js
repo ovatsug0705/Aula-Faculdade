@@ -416,7 +416,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\1090481713014\Desktop\6not-2019-2\pinupload\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\1090481713014\Desktop\Aula-Faculdade\pinupload\src\main.ts */"./src/main.ts");
 
 
 /***/ })
