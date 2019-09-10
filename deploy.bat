@@ -3,6 +3,7 @@ REM
 "%USERPROFILE%\AppData\Roaming\npm\ng.cmd" build --base-href /pinupload/ && ^
 git add -f dist && ^
 git commit -m 'deploy' && ^
+git pull && ^
 git subtree push --prefix=dist/pinupload origin gh-pages
 
 REM
