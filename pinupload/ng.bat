@@ -1,1 +1,0 @@
-"C:\Users\1090481713014\AppData\Roaming\npm\ng.cmd" %1 %2 %3 %4 %5 %6 %7 %8 %9
